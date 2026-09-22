@@ -306,11 +306,4 @@ Upload the contents of the `dist/` folder to your hosting provider.
 
 ---
 
-## Credits & Contact
 
-**Eki Zulfar Rachman**  
-Website: [eki.my.id](https://ekizr.com) · GitHub: [EkiZR](https://github.com/EkiZR)
-
-Thanks to [LottieFiles](https://lottiefiles.com/free-animation/coding-NWhbxMOVgP) and Claude.
-
-⭐ If this project helped you, consider giving it a star on GitHub!
